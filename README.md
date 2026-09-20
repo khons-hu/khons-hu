@@ -6,9 +6,9 @@ I'm Patrick. I started programming through C++ and Counter-Strike, well before t
 
 ### lately
 
-- [Thinkroom](https://github.com/khons-hu/thinkroom): coding, debugging, logic and prompt exercises. Something to keep solving yourself, even when an agent could do it for you.
-- [Quiet Signal](https://github.com/khons-hu/quiet-signal): official AI news, releases and status feeds in a small RSS inbox.
-- [Market Watch](https://github.com/khons-hu/market-watch): a read-only Polymarket research desk with wallet watchlists and local notes. Live data is still being verified.
+- [Thinkroom ↗](https://thinkroom-khonsu.vercel.app/) ([source](https://github.com/khons-hu/thinkroom)): coding, debugging, logic and prompt exercises. Something to keep solving yourself, even when an agent could do it for you.
+- [Quiet Signal ↗](https://quiet-signal-khonsu.vercel.app/) ([source](https://github.com/khons-hu/quiet-signal)): official AI news, releases and status feeds in a small RSS inbox.
+- [Market Watch ↗](https://market-watch-khonsu.vercel.app/) ([source](https://github.com/khons-hu/market-watch)): a read-only Polymarket research desk with wallet watchlists and local notes.
 - [My website ↗](https://khons-hu.vercel.app/): projects, a terminal and a bit more about me.
 
 ### work
