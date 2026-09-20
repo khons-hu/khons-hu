@@ -6,9 +6,9 @@ I'm Patrick. I started programming through C++ and Counter-Strike, well before t
 
 ### lately
 
-- [Khonsolve ↗](https://thinkroom-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonsolve)): coding, debugging, logic and prompt exercises. Something to keep solving yourself, even when an agent could do it for you.
-- [Khonrelay ↗](https://quiet-signal-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonrelay)): official AI news, releases and status feeds in a small RSS inbox.
-- [Khonodds ↗](https://market-watch-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonodds)): a read-only Polymarket research desk with wallet watchlists and local notes.
+- [Khonsolve ↗](https://thinkroom-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonsolve) · [Android preview](https://github.com/khons-hu/khonsolve/releases/tag/android-v1.0.0-preview.1)): coding, debugging, logic and prompt exercises. Something to keep solving yourself, even when an agent could do it for you.
+- [Khonrelay ↗](https://quiet-signal-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonrelay) · [Android preview](https://github.com/khons-hu/khonrelay/releases/tag/android-v1.0.0-preview.1)): official AI news, releases and status feeds in a small RSS inbox.
+- [Khonodds ↗](https://market-watch-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonodds) · [Android preview](https://github.com/khons-hu/khonodds/releases/tag/android-v1.0.0-preview.1)): a read-only Polymarket research desk with wallet watchlists and local notes.
 - [Khonstash](https://github.com/khons-hu/khonstash): a Steam item watchlist with price checks, fee estimates and local notes. Source available, hosted version coming next.
 - [My website ↗](https://khons-hu.vercel.app/): projects, a terminal and a bit more about me.
 
