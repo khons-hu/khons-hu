@@ -2,15 +2,9 @@
 
 # hey, I'm khonsu ☾
 
-**Building, experimenting, keeping up with what's next.**
+I'm Patrick. I got into programming through C++ and Counter-Strike, before the ChatGPT boom. These days I work on integrations at Luigi's Box and use coding agents in my own projects.
 
-Coding since before the LLM boom. These days, I'm exploring AI agents, new models and tools, and what they make possible. AGI and recursive self-improvement keep me curious. Trying things myself is how I learn.
-
-### Currently exploring
-
-- **Agents & coding tools** · experimenting with new ways to build software
-- **Models & capabilities** · following releases and testing what actually works
-- **AGI & RSI** · keeping up with the research, ideas and open questions
+I follow new models, AGI and recursive self-improvement. I like trying tools as they come out and seeing where they fit into my work.
 
 ### What I do at Luigi's Box
 
@@ -34,7 +28,7 @@ For my master's thesis, I built **PPO reinforcement-learning agents with Stable-
 
 ### Earlier projects
 
-These public repos are older and don't reflect the full range of what I can build today. New open-source projects may show up here as I find things worth sharing.
+Most of these repos are from earlier projects. I may publish newer work as I have something ready to share.
 
 | Project | What's inside |
 | :--- | :--- |
@@ -47,4 +41,4 @@ These public repos are older and don't reflect the full range of what I can buil
 
 ---
 
-[X](https://x.com/ptr1337_) · [Steam](https://steamcommunity.com/id/khons_hu/) · Discord: **khons.hu**
+[Website](https://khons-hu.vercel.app/) · [X](https://x.com/ptr1337_) · [Steam](https://steamcommunity.com/id/khons_hu/) · Discord: **khons.hu**
