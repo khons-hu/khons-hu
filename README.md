@@ -4,14 +4,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=khons-hu&label=profile+views&color=536b86&style=flat" alt="Profile views since this counter was added" />
 
-I'm Patrick. I started programming through C++ and Counter-Strike, well before the ChatGPT boom. These days I build things with coding agents and try new models and tools as they come out. AGI and recursive self-improvement are things I follow closely.
+I'm Patrick. C++ and Counter-Strike got me into programming. These days I build tools for things I actually use: practising, following releases and keeping track of game items. I also try new models and coding agents to see where they help and where I still need to step in.
 
 ### lately
 
 - [Khonsolve ↗](https://thinkroom-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonsolve) · [Android preview](https://github.com/khons-hu/khonsolve/releases/tag/android-v1.0.0-preview.1)): coding, debugging, logic and prompt exercises. Something to keep solving yourself, even when an agent could do it for you.
-- [Khonrelay ↗](https://quiet-signal-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonrelay) · [Android preview](https://github.com/khons-hu/khonrelay/releases/tag/android-v1.0.0-preview.1)): official AI feeds in a small RSS inbox, with optional precomputed Jev reading order.
+- [Khonrelay ↗](https://quiet-signal-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonrelay) · [Android preview](https://github.com/khons-hu/khonrelay/releases/tag/android-v1.0.0-preview.1)): an RSS inbox for AI releases, with saved links, optional Jev reading order and a daily push digest. Web Push tested in Brave on macOS.
 - [Khonodds ↗](https://market-watch-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonodds) · [Android preview](https://github.com/khons-hu/khonodds/releases/tag/android-v1.0.0-preview.1)): a read-only Polymarket research desk with wallet watchlists and local notes.
-- [Khonstash](https://github.com/khons-hu/khonstash): a Steam item watchlist with price checks, fee estimates and local notes. Source available, hosted version coming next.
+- [Khonstash](https://github.com/khons-hu/khonstash): a Steam item watchlist with price checks, fee estimates and local notes. Public source. No verified hosted demo yet.
+- [Dots ↗](https://dots-khonsu.vercel.app/) ([source](https://github.com/khons-hu/Dots)): my 2023 React game, brought back as a browser edition with the original look.
 - [My website ↗](https://khons-hu.vercel.app/): projects, a terminal and a bit more about me.
 
 I also built a local Spotify tool for my daily rotation and private playlists by mood, activity or artist. It runs on my Mac, with no background AI calls. The source is private.
@@ -32,7 +33,7 @@ I audit implementations for smaller shops and larger clients, debug browser and 
 
 Master's in Computer Science at TUKE. My thesis involved PPO agents for a multiplayer game and LLM-generated maps. I've also worked on language-learning games at LangBee, card-personalization software at Pierre & Rady and IBM DOORS NG extensions at Softacus.
 
-Some older work is here too: [Dots](https://github.com/khons-hu/Dots), my 2023 React / Spring Boot game with a [playable browser edition](https://dots-khonsu.vercel.app/) that keeps its original React look, a [Discord music bot](https://github.com/khons-hu/CSLYS-Discord-Bot), and a [C++ inter-process communication project](https://github.com/khons-hu/Inter-process-communication). These repos aren't necessarily up to date. I'll share newer projects when they're ready.
+Earlier work includes an [Arduino calculator](https://github.com/khons-hu/Scientific-Calculator-Simplified---Semestral-Hardware-project) we built as a team at TUKE, with expression parsing, an LCD and a small bomb-defusal game. There’s also a [Discord music bot](https://github.com/khons-hu/CSLYS-Discord-Bot), and a [C++ inter-process communication project](https://github.com/khons-hu/Inter-process-communication). These repos aren't necessarily up to date. I'll share newer projects when they're ready.
 
 <sub>C/C++ · Python · TypeScript / JavaScript · PHP · SQL · Java · Docker</sub>
 
