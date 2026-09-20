@@ -16,7 +16,7 @@ At [Luigi's Box](https://www.luigisbox.com/), I work in technical support and in
 
 ### Earlier projects
 
-A few things I built along the way, from games and bots to systems programming.
+These public repos are older and don't reflect the full range of what I can build today. New open-source projects may show up here as I find things worth sharing.
 
 | Project | What's inside |
 | :--- | :--- |
