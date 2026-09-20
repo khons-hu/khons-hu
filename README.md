@@ -20,7 +20,7 @@ I also built a local Spotify tool for my daily rotation and private playlists by
 
 <a href="https://github.com/khons-hu?tab=repositories"><img src="https://img.shields.io/github/stars/khons-hu?style=flat&labelColor=182330&color=536b86&label=total+stars" alt="Total stars received across public repositories" /></a>
 <a href="https://github.com/khons-hu?tab=followers"><img src="https://img.shields.io/github/followers/khons-hu?style=flat&labelColor=182330&color=536b86&label=followers" alt="GitHub followers" /></a>
-<a href="https://github.com/khons-hu?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=182330&color=536b86&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkhons-hu&query=%24.public_repos&label=public+repos" alt="Public repositories" /></a>
+<a href="https://github.com/khons-hu?tab=repositories"><img src="https://badges.pufler.dev/repos/khons-hu?style=flat&labelColor=182330&color=536b86&label=public%20repos" alt="Public repositories" /></a>
 
 ### work
 
