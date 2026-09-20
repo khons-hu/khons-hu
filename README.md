@@ -12,6 +12,8 @@ I'm Patrick. I started programming through C++ and Counter-Strike, well before t
 - [Khonstash](https://github.com/khons-hu/khonstash): a Steam item watchlist with price checks, fee estimates and local notes. Source available, hosted version coming next.
 - [My website ↗](https://khons-hu.vercel.app/): projects, a terminal and a bit more about me.
 
+I also built a local Spotify tool for my daily rotation and private playlists by mood, activity or artist. It runs on my Mac, with no background AI calls. The source is private.
+
 ### work
 
 I'm a **Customer Support Partner L2** at [Luigi's Box](https://www.luigisbox.com/), which builds search and product discovery tools for online shops. L2 means second-line technical support, where issues need a closer look at the code, data or configuration.
