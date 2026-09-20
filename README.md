@@ -16,17 +16,11 @@ I'm Patrick. I started programming through C++ and Counter-Strike, well before t
 
 I also built a local Spotify tool for my daily rotation and private playlists by mood, activity or artist. It runs on my Mac, with no background AI calls. The source is private.
 
-### repository stats
+### github
 
-<sub>Khonsolve</sub>
-
-<a href="https://github.com/khons-hu/khonsolve/stargazers"><img src="https://img.shields.io/github/stars/khons-hu/khonsolve?style=flat&labelColor=182330&color=536b86&label=stars" alt="Khonsolve stars" /></a>
-<a href="https://github.com/khons-hu/khonsolve/forks"><img src="https://img.shields.io/github/forks/khons-hu/khonsolve?style=flat&labelColor=182330&color=536b86&label=forks" alt="Khonsolve forks" /></a>
-<a href="https://github.com/khons-hu/khonsolve/watchers"><img src="https://img.shields.io/github/watchers/khons-hu/khonsolve?style=flat&labelColor=182330&color=536b86&label=watchers" alt="Khonsolve watchers" /></a>
-<a href="https://github.com/khons-hu/khonsolve/graphs/contributors"><img src="https://img.shields.io/github/contributors/khons-hu/khonsolve?style=flat&labelColor=182330&color=536b86&label=contributors" alt="Khonsolve contributors" /></a>
-<a href="https://github.com/khons-hu/khonsolve/commits"><img src="https://img.shields.io/github/last-commit/khons-hu/khonsolve?style=flat&labelColor=182330&color=536b86&label=last%20commit" alt="Khonsolve last commit" /></a>
-
-<sub>Live repository metrics, cached by the badge provider.</sub>
+<a href="https://github.com/khons-hu?tab=repositories"><img src="https://img.shields.io/github/stars/khons-hu?style=flat&labelColor=182330&color=536b86&label=total+stars" alt="Total stars received across public repositories" /></a>
+<a href="https://github.com/khons-hu?tab=followers"><img src="https://img.shields.io/github/followers/khons-hu?style=flat&labelColor=182330&color=536b86&label=followers" alt="GitHub followers" /></a>
+<a href="https://github.com/khons-hu?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=182330&color=536b86&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkhons-hu&query=%24.public_repos&label=public+repos" alt="Public repositories" /></a>
 
 ### work
 
