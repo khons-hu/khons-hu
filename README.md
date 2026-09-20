@@ -17,6 +17,12 @@ I'm Patrick. C++ and Counter-Strike got me into programming. These days I build 
 
 I also built a local Spotify tool for my daily rotation and private playlists by mood, activity or artist. It runs on my Mac, with no background AI calls. The source is private.
 
+### on my desk
+
+Trying Jev for small decisions: picking browser actions and sorting release notes. OpenAI coding agents help me build and debug the surrounding tools. I check what actually worked before handing over more of the loop. Sometimes the plain script still wins.
+
+The browser work is an early experiment. Khonrelay’s optional Jev reading order is already available in the app.
+
 ### github
 
 <a href="https://github.com/khons-hu?tab=repositories"><img src="https://img.shields.io/github/stars/khons-hu?style=flat&labelColor=182330&color=536b86&label=total+stars" alt="Total stars received across public repositories" /></a>
