@@ -2,19 +2,21 @@
 
 # hey, I'm khonsu ☾
 
-**Developer, tinkerer, always curious about what's next.**
+**Building, experimenting, keeping up with what's next.**
 
-I like figuring out how things work, building something with them, then seeing how far I can take it. I've been coding since before the LLM boom. These days, I'm especially excited about AI agents, AGI and recursive self-improvement.
+Coding since before the LLM boom. These days, I'm exploring AI agents, new models and tools, and what they make possible. AGI and recursive self-improvement keep me curious. Trying things myself is how I learn.
 
-### What keeps me curious
+### Currently exploring
 
-- **AI & experiments** · trying new models, tools and ways to build with them
-- **Integrations & debugging** · connecting systems and figuring out why things break
-- **Games & small tools** · from web games and Discord bots to lower-level experiments
+- **Agents & coding tools** · experimenting with new ways to build software
+- **Models & capabilities** · following releases and testing what actually works
+- **AGI & RSI** · keeping up with the research, ideas and open questions
 
 At [Luigi's Box](https://www.luigisbox.com/), I work in technical support and integrations. Outside of that, you'll find me building, talking tech with friends on Discord, or in CS2.
 
-### Some things I've built
+### Earlier projects
+
+A few things I built along the way, from games and bots to systems programming.
 
 | Project | What's inside |
 | :--- | :--- |
