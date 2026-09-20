@@ -26,10 +26,6 @@ I work in **L2 (second-line) technical support and integrations**. L2 means inve
 
 My approach is to reproduce the issue, trace it through the browser, API and data, then make a focused fix and verify the result in the actual user journey. I work with clients, their developers and our engineering team, keeping findings clear and handovers reproducible.
 
-### Open-source contributions
-
-I've contributed to [code-charity/youtube](https://github.com/code-charity/youtube), a browser extension for customizing YouTube. My [merged PR](https://github.com/code-charity/youtube/pull/3396) adds configurable keyboard shortcuts for playback speeds.
-
 ### A bit of background
 
 I have a master's in Computer Science from TUKE and 3+ years of commercial experience in backend and full-stack development. I've worked on language-learning games and web features at LangBee, card-personalization software at Pierre & Rady, and JavaScript extensions for IBM DOORS NG at Softacus.
