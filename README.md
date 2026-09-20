@@ -2,51 +2,26 @@
 
 # hey, I'm khonsu ☾
 
-[Portfolio ↗](https://khons-hu.vercel.app/)
+I'm Patrick. I started programming through C++ and Counter-Strike, well before the ChatGPT boom. These days I build things with coding agents and try new models and tools as they come out. AGI and recursive self-improvement are things I follow closely.
 
-I'm Patrick. I got into programming through C++ and Counter-Strike, before the ChatGPT boom. These days I'm a Customer Support Partner L2 at Luigi's Box and use coding agents in my own projects.
+### lately
 
-I follow new models, AGI and recursive self-improvement. I like trying tools as they come out and seeing where they fit into my work.
+- [Thinkroom](https://github.com/khons-hu/thinkroom): coding, debugging, logic and prompt exercises. Something to keep solving yourself, even when an agent could do it for you.
+- [My website ↗](https://khons-hu.vercel.app/): projects, a terminal and a bit more about me.
 
-### What I do at Luigi's Box
+### work
 
-[Luigi's Box](https://www.luigisbox.com/) builds AI-powered search and product discovery for e-commerce, including autocomplete, recommendations, product listings, analytics and conversational shopping tools.
+I'm a **Customer Support Partner L2** at [Luigi's Box](https://www.luigisbox.com/), which builds search and product discovery tools for online shops. L2 means second-line technical support, where issues need a closer look at the code, data or configuration.
 
-My role is **Customer Support Partner L2**. L2 is second-line technical support: investigating issues that need deeper diagnosis beyond initial support and triage. My work covers:
+I audit implementations for smaller shops and larger clients, debug browser and API behaviour, investigate product feeds and analytics, and verify fixes. Usually that means reproducing what broke, following it through the system and either fixing it or giving engineering a case they can reproduce.
 
-- **Integration audits:** reviewing implementations for smaller shops and larger e-commerce clients, checking storefront behaviour, product data, configuration and analytics together.
-- **Integration debugging:** tracing API requests, JavaScript behaviour and storefront issues to their root cause.
-- **Product data:** investigating feeds, data mapping and synchronization problems that affect what shoppers see.
-- **Analytics:** checking event collection, tracking and discrepancies between storefront behaviour and reported data.
-- **Fixes and engineering handovers:** making integration adjustments, verifying the result, and giving engineering reproducible cases with technical evidence when a product fix is needed.
+### before that
 
-My approach is to reproduce the issue, trace it through the browser, API and data, then make a focused fix and verify the result in the actual user journey. I work with clients, their developers and our engineering team, keeping findings clear and handovers reproducible.
+Master's in Computer Science at TUKE. My thesis involved PPO agents for a multiplayer game and LLM-generated maps. I've also worked on language-learning games at LangBee, card-personalization software at Pierre & Rady and IBM DOORS NG extensions at Softacus.
 
-### A bit of background
+Some older work is here too: [Dots](https://github.com/khons-hu/Dots), a React / Spring Boot game, a [Discord music bot](https://github.com/khons-hu/CSLYS-Discord-Bot), and a [C++ inter-process communication project](https://github.com/khons-hu/Inter-process-communication). These repos aren't necessarily up to date. I'll share newer projects when they're ready.
 
-I have a master's in Computer Science from TUKE and 3+ years of commercial experience in backend and full-stack development. I've worked on language-learning games and web features at LangBee, card-personalization software at Pierre & Rady, and JavaScript extensions for IBM DOORS NG at Softacus.
-
-For my master's thesis, I built **PPO reinforcement-learning agents with Stable-Baselines3** for a turn-based multiplayer game and integrated **LLM-driven map generation**. My bachelor's project was the client side of an RPG shooter, built with TypeScript, Cocos Creator and WebSocket synchronization.
-
-### Current projects
-
-| Project | What's inside |
-| :--- | :--- |
-| [Thinkroom](https://github.com/khons-hu/thinkroom) | A practice app for coding, debugging, logic, prompts and agent skills. Gradual hints, local code runners and room to think before looking at an answer. |
-| [Portfolio ↗](https://khons-hu.vercel.app/) | My corner of the web: projects, a terminal, a multilingual guide and light/dark themes. |
-
-### Earlier projects
-
-These are snapshots of earlier work, not necessarily maintained or up to date. I'll add newer public projects as they're ready.
-
-| Project | What's inside |
-| :--- | :--- |
-| [Dots](https://github.com/khons-hu/Dots) | A web game with React and a Spring Boot backend. |
-| [CSLYS Discord Bot](https://github.com/khons-hu/CSLYS-Discord-Bot) | A JavaScript Discord bot with music playback. |
-| [Inter-process communication](https://github.com/khons-hu/Inter-process-communication) | A C++ team project exploring how processes communicate. |
-| [Hardware calculator](https://github.com/khons-hu/Scientific-Calculator-Simplified---Semestral-Hardware-project) | A university hardware project in C++. |
-
-<sub>Python · TypeScript / JavaScript · PHP · SQL · Java · C/C++<br>React · FastAPI · Laravel · Spring Boot · Stable-Baselines3 · Docker</sub>
+<sub>C/C++ · Python · TypeScript / JavaScript · PHP · SQL · Java · Docker</sub>
 
 ---
 
