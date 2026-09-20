@@ -2,6 +2,8 @@
 
 # hey, I'm khonsu ☾
 
+<img src="https://komarev.com/ghpvc/?username=khons-hu&label=profile+views&color=536b86&style=flat" alt="Profile views since this counter was added" />
+
 I'm Patrick. I started programming through C++ and Counter-Strike, well before the ChatGPT boom. These days I build things with coding agents and try new models and tools as they come out. AGI and recursive self-improvement are things I follow closely.
 
 ### lately
@@ -13,6 +15,19 @@ I'm Patrick. I started programming through C++ and Counter-Strike, well before t
 - [My website ↗](https://khons-hu.vercel.app/): projects, a terminal and a bit more about me.
 
 I also built a local Spotify tool for my daily rotation and private playlists by mood, activity or artist. It runs on my Mac, with no background AI calls. The source is private.
+
+<details>
+<summary>Khonsolve · repository activity</summary>
+
+<a href="https://github.com/khons-hu/khonsolve/stargazers"><img src="https://img.shields.io/github/stars/khons-hu/khonsolve?style=flat&labelColor=182330&color=536b86&label=stars" alt="Khonsolve stars" /></a>
+<a href="https://github.com/khons-hu/khonsolve/forks"><img src="https://img.shields.io/github/forks/khons-hu/khonsolve?style=flat&labelColor=182330&color=536b86&label=forks" alt="Khonsolve forks" /></a>
+<a href="https://github.com/khons-hu/khonsolve/watchers"><img src="https://img.shields.io/github/watchers/khons-hu/khonsolve?style=flat&labelColor=182330&color=536b86&label=watchers" alt="Khonsolve watchers" /></a>
+<a href="https://github.com/khons-hu/khonsolve/graphs/contributors"><img src="https://img.shields.io/github/contributors/khons-hu/khonsolve?style=flat&labelColor=182330&color=536b86&label=contributors" alt="Khonsolve contributors" /></a>
+<a href="https://github.com/khons-hu/khonsolve/commits"><img src="https://img.shields.io/github/last-commit/khons-hu/khonsolve?style=flat&labelColor=182330&color=536b86&label=last%20commit" alt="Khonsolve last commit" /></a>
+
+<sub>Live repository metrics, cached by the badge provider.</sub>
+
+</details>
 
 ### work
 
