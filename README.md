@@ -26,10 +26,10 @@ These public repos are older and don't reflect the full range of what I can buil
 
 | Project | What's inside |
 | :--- | :--- |
-| [Dots](https://github.com/yfm-po/Dots) | A web game with React and a Spring Boot backend. |
-| [CSLYS Discord Bot](https://github.com/yfm-po/CSLYS-Discord-Bot) | A JavaScript Discord bot with music playback. |
-| [Inter-process communication](https://github.com/yfm-po/Inter-process-communication) | A C++ team project exploring how processes communicate. |
-| [Hardware calculator](https://github.com/yfm-po/Scientific-Calculator-Simplified---Semestral-Hardware-project) | A university hardware project in C++. |
+| [Dots](https://github.com/khons-hu/Dots) | A web game with React and a Spring Boot backend. |
+| [CSLYS Discord Bot](https://github.com/khons-hu/CSLYS-Discord-Bot) | A JavaScript Discord bot with music playback. |
+| [Inter-process communication](https://github.com/khons-hu/Inter-process-communication) | A C++ team project exploring how processes communicate. |
+| [Hardware calculator](https://github.com/khons-hu/Scientific-Calculator-Simplified---Semestral-Hardware-project) | A university hardware project in C++. |
 
 <sub>Python · TypeScript / JavaScript · PHP · SQL · Java · C/C++<br>React · FastAPI · Laravel · Spring Boot · Stable-Baselines3 · Docker</sub>
 
