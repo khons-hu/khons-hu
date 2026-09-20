@@ -12,7 +12,18 @@ Coding since before the LLM boom. These days, I'm exploring AI agents, new model
 - **Models & capabilities** · following releases and testing what actually works
 - **AGI & RSI** · keeping up with the research, ideas and open questions
 
-At [Luigi's Box](https://www.luigisbox.com/), I work in technical support and integrations. Outside of that, you'll find me building, talking tech with friends on Discord, or in CS2.
+### What I do at Luigi's Box
+
+[Luigi's Box](https://www.luigisbox.com/) builds AI-powered search and product discovery for e-commerce, including autocomplete, recommendations, product listings, analytics and conversational shopping tools.
+
+I work in **L2 (second-line) technical support and integrations**. L2 means investigating issues that need deeper technical diagnosis beyond initial support and triage. My work covers:
+
+- **Integration debugging:** tracing API requests, JavaScript behaviour and storefront issues to their root cause.
+- **Product data:** investigating feeds, data mapping and synchronization problems that affect what shoppers see.
+- **Analytics:** checking event collection, tracking and discrepancies between storefront behaviour and reported data.
+- **Fixes and engineering handovers:** making integration adjustments, verifying the result, and giving engineering reproducible cases with technical evidence when a product fix is needed.
+
+I also work with clients and their developers to understand the problem and explain the resolution clearly. Outside of work, you'll find me building, talking tech with friends on Discord, or in CS2.
 
 ### A bit of background
 
