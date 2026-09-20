@@ -39,7 +39,7 @@ I audit implementations for smaller shops and larger clients, debug browser and 
 
 Master's in Computer Science at TUKE. My thesis involved PPO agents for a multiplayer game and LLM-generated maps. I've also worked on language-learning games at LangBee, card-personalization software at Pierre & Rady and IBM DOORS NG extensions at Softacus.
 
-Some older work is here too: [Dots](https://github.com/khons-hu/Dots), a React / Spring Boot game, a [Discord music bot](https://github.com/khons-hu/CSLYS-Discord-Bot), and a [C++ inter-process communication project](https://github.com/khons-hu/Inter-process-communication). These repos aren't necessarily up to date. I'll share newer projects when they're ready.
+Some older work is here too: [Dots](https://github.com/khons-hu/Dots), my 2023 React / Spring Boot game with a [playable browser edition](https://dots-khonsu.vercel.app/) that keeps its original React look, a [Discord music bot](https://github.com/khons-hu/CSLYS-Discord-Bot), and a [C++ inter-process communication project](https://github.com/khons-hu/Inter-process-communication). These repos aren't necessarily up to date. I'll share newer projects when they're ready.
 
 <sub>C/C++ · Python · TypeScript / JavaScript · PHP · SQL · Java · Docker</sub>
 
