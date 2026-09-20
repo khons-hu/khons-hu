@@ -2,6 +2,8 @@
 
 # hey, I'm khonsu ☾
 
+[Portfolio ↗](https://khons-hu.vercel.app/)
+
 I'm Patrick. I got into programming through C++ and Counter-Strike, before the ChatGPT boom. These days I work on integrations at Luigi's Box and use coding agents in my own projects.
 
 I follow new models, AGI and recursive self-improvement. I like trying tools as they come out and seeing where they fit into my work.
@@ -41,4 +43,4 @@ Most of these repos are from earlier projects. I may publish newer work as I hav
 
 ---
 
-[Website](https://khons-hu.vercel.app/) · [X](https://x.com/ptr1337_) · [Steam](https://steamcommunity.com/id/khons_hu/) · Discord: **khons.hu**
+[X](https://x.com/ptr1337_) · [Steam](https://steamcommunity.com/id/khons_hu/) · Discord: **khons.hu**
