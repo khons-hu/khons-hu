@@ -4,7 +4,7 @@
 
 [Portfolio ↗](https://khons-hu.vercel.app/)
 
-I'm Patrick. I got into programming through C++ and Counter-Strike, before the ChatGPT boom. These days I work on integrations at Luigi's Box and use coding agents in my own projects.
+I'm Patrick. I got into programming through C++ and Counter-Strike, before the ChatGPT boom. These days I'm a Customer Support Partner L2 at Luigi's Box and use coding agents in my own projects.
 
 I follow new models, AGI and recursive self-improvement. I like trying tools as they come out and seeing where they fit into my work.
 
@@ -12,7 +12,7 @@ I follow new models, AGI and recursive self-improvement. I like trying tools as 
 
 [Luigi's Box](https://www.luigisbox.com/) builds AI-powered search and product discovery for e-commerce, including autocomplete, recommendations, product listings, analytics and conversational shopping tools.
 
-I work in **L2 (second-line) technical support and integrations**. L2 means investigating issues that need deeper technical diagnosis beyond initial support and triage. My work covers:
+My role is **Customer Support Partner L2**. L2 is second-line technical support: investigating issues that need deeper diagnosis beyond initial support and triage. My work covers:
 
 - **Integration audits:** reviewing implementations for smaller shops and larger e-commerce clients, checking storefront behaviour, product data, configuration and analytics together.
 - **Integration debugging:** tracing API requests, JavaScript behaviour and storefront issues to their root cause.
@@ -28,9 +28,16 @@ I have a master's in Computer Science from TUKE and 3+ years of commercial exper
 
 For my master's thesis, I built **PPO reinforcement-learning agents with Stable-Baselines3** for a turn-based multiplayer game and integrated **LLM-driven map generation**. My bachelor's project was the client side of an RPG shooter, built with TypeScript, Cocos Creator and WebSocket synchronization.
 
+### Current projects
+
+| Project | What's inside |
+| :--- | :--- |
+| [Thinkroom](https://github.com/khons-hu/thinkroom) | A practice app for coding, debugging, logic, prompts and agent skills. Gradual hints, local code runners and room to think before looking at an answer. |
+| [Portfolio](https://github.com/khons-hu/portfolio) · [visit ↗](https://khons-hu.vercel.app/) | My corner of the web: projects, a terminal, a multilingual guide and light/dark themes. |
+
 ### Earlier projects
 
-Most of these repos are from earlier projects. I may publish newer work as I have something ready to share.
+These are snapshots of earlier work, not necessarily maintained or up to date. I'll add newer public projects as they're ready.
 
 | Project | What's inside |
 | :--- | :--- |
