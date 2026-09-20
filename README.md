@@ -18,12 +18,17 @@ Coding since before the LLM boom. These days, I'm exploring AI agents, new model
 
 I work in **L2 (second-line) technical support and integrations**. L2 means investigating issues that need deeper technical diagnosis beyond initial support and triage. My work covers:
 
+- **Integration audits:** reviewing implementations for smaller shops and larger e-commerce clients, checking storefront behaviour, product data, configuration and analytics together.
 - **Integration debugging:** tracing API requests, JavaScript behaviour and storefront issues to their root cause.
 - **Product data:** investigating feeds, data mapping and synchronization problems that affect what shoppers see.
 - **Analytics:** checking event collection, tracking and discrepancies between storefront behaviour and reported data.
 - **Fixes and engineering handovers:** making integration adjustments, verifying the result, and giving engineering reproducible cases with technical evidence when a product fix is needed.
 
-I also work with clients and their developers to understand the problem and explain the resolution clearly. Outside of work, you'll find me building, talking tech with friends on Discord, or in CS2.
+My approach is to reproduce the issue, trace it through the browser, API and data, then make a focused fix and verify the result in the actual user journey. I work with clients, their developers and our engineering team, keeping findings clear and handovers reproducible.
+
+### Open-source contributions
+
+I've contributed to [code-charity/youtube](https://github.com/code-charity/youtube), a browser extension for customizing YouTube. My [merged PR](https://github.com/code-charity/youtube/pull/3396) adds configurable keyboard shortcuts for playback speeds.
 
 ### A bit of background
 
