@@ -33,7 +33,7 @@ For my master's thesis, I built **PPO reinforcement-learning agents with Stable-
 | Project | What's inside |
 | :--- | :--- |
 | [Thinkroom](https://github.com/khons-hu/thinkroom) | A practice app for coding, debugging, logic, prompts and agent skills. Gradual hints, local code runners and room to think before looking at an answer. |
-| [Portfolio](https://github.com/khons-hu/portfolio) · [visit ↗](https://khons-hu.vercel.app/) | My corner of the web: projects, a terminal, a multilingual guide and light/dark themes. |
+| [Portfolio ↗](https://khons-hu.vercel.app/) | My corner of the web: projects, a terminal, a multilingual guide and light/dark themes. |
 
 ### Earlier projects
 
