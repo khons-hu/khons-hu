@@ -15,6 +15,7 @@ I'm Patrick. C++ and Counter-Strike got me into programming. These days I build 
 - [Khonodds ↗](https://market-watch-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonodds) · [Android preview](https://github.com/khons-hu/khonodds/releases/tag/android-v1.0.0-preview.1)): a read-only Polymarket research desk with wallet watchlists and local notes.
 - [Khonstash](https://github.com/khons-hu/khonstash): a Steam item watchlist with price checks, fee estimates and local notes. Public source. No verified hosted demo yet.
 - [Dots ↗](https://dots-khonsu.vercel.app/) ([source](https://github.com/khons-hu/Dots)): my 2023 React game, brought back as a browser edition with the original look.
+- [Receipts After Dark ↗](https://yfm-po.itch.io/receipts-after-dark): a small Godot browser game for one or two people. Move through a moonlit market, inspect the evidence, then make the call. Early public prototype.
 - [My website ↗](https://khons-hu.vercel.app/): projects, a terminal and a bit more about me.
 
 I also built a local Spotify tool for my daily rotation and private playlists by mood, activity or artist. It runs on my Mac, with no background AI calls. The source is private.
