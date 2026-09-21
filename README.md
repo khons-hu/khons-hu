@@ -9,6 +9,7 @@ I'm Patrick. C++ and Counter-Strike got me into programming. These days I build 
 ### lately
 
 - [Khonproof](https://github.com/khons-hu/khonproof): a small agent test lab with 20 browser tasks, measured decision reports, instruction comparisons and checks for releases and claims. Browser and model results stay separate.
+- [Receipts After Dark](https://github.com/khons-hu/receipts-after-dark): an early low-poly deduction game for one or two people on the same screen. The browser build is in the repo; it still needs playtests before any Steam decision.
 - [Khonsolve ↗](https://thinkroom-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonsolve) · [Android preview](https://github.com/khons-hu/khonsolve/releases/tag/android-v1.0.0-preview.1)): coding, debugging, logic and prompt exercises. Something to keep solving yourself, even when an agent could do it for you.
 - [Khonrelay ↗](https://quiet-signal-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonrelay) · [Android preview](https://github.com/khons-hu/khonrelay/releases/tag/android-v1.0.0-preview.1)): an RSS inbox for AI releases, with saved links, optional Jev reading order and a daily push digest. Web Push tested in Brave on macOS.
 - [Khonodds ↗](https://market-watch-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonodds) · [Android preview](https://github.com/khons-hu/khonodds/releases/tag/android-v1.0.0-preview.1)): a read-only Polymarket research desk with wallet watchlists and local notes.
