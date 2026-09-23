@@ -4,27 +4,25 @@
 
 <img src="https://komarev.com/ghpvc/?username=khons-hu&label=profile+views&color=536b86&style=flat" alt="Profile views since this counter was added" />
 
-I'm Patrick. C++ and Counter-Strike got me into programming. These days I build tools for things I actually use: practising, following releases and keeping track of game items. I also try new models and coding agents to see where they help and where I still need to step in.
+I'm Patrick. C++ and Counter-Strike got me into programming. These days I make small tools and games, and try coding agents on my own projects.
+
+[My website ↗](https://khons-hu.vercel.app/) has project notes, playable demos, a terminal and a way to reach me.
 
 ### lately
 
-- [Khonproof](https://github.com/khons-hu/khonproof): a small agent test lab with 20 browser tasks, measured decision reports, instruction comparisons and checks for releases and claims. Browser and model results stay separate.
-- [Moonhold](https://github.com/khons-hu/moonhold): a small private pause timer with a local note, made for those moments when sending a message immediately is a bad idea. It cannot block other apps.
-- [Khonsolve ↗](https://thinkroom-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonsolve) · [Android preview](https://github.com/khons-hu/khonsolve/releases/tag/android-v1.0.0-preview.1)): coding, debugging, logic and prompt exercises. Something to keep solving yourself, even when an agent could do it for you.
-- [Khonrelay ↗](https://quiet-signal-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonrelay) · [Android preview](https://github.com/khons-hu/khonrelay/releases/tag/android-v1.0.0-preview.1)): an RSS inbox for AI releases, with saved links, optional Jev reading order and a daily push digest. Web Push tested in Brave on macOS.
-- [Khonodds ↗](https://market-watch-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonodds) · [Android preview](https://github.com/khons-hu/khonodds/releases/tag/android-v1.0.0-preview.1)): a read-only Polymarket research desk with wallet watchlists and local notes.
-- [Khonstash](https://github.com/khons-hu/khonstash): a Steam item watchlist with price checks, fee estimates and local notes. Public source. No verified hosted demo yet.
-- [Dots ↗](https://dots-khonsu.vercel.app/) ([source](https://github.com/khons-hu/Dots)): my 2023 React game, brought back as a browser edition with the original look.
-- [Receipts After Dark ↗](https://yfm-po.itch.io/receipts-after-dark): a small Godot browser game for one or two people. Move through a moonlit market, inspect the evidence, then make the call. Early public prototype.
-- [My website ↗](https://khons-hu.vercel.app/): projects, a terminal and a bit more about me.
+- [Khonproof](https://github.com/khons-hu/khonproof): a test lab for agent decisions, browser tasks and instruction comparisons. Small, reproducible cases with the failures included.
+- [Khonrelay ↗](https://quiet-signal-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonrelay)): an RSS inbox for AI releases, with saved links, backups, optional Jev reading order and a daily push digest.
+- [Khonsolve ↗](https://thinkroom-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonsolve)): coding, debugging, logic and prompt exercises. Something to keep solving yourself, with hints when you need them.
+- [Khonodds ↗](https://market-watch-khonsu.vercel.app/) ([source](https://github.com/khons-hu/khonodds)): a read-only Polymarket research desk with wallet watchlists and local notes.
+- [Receipts After Dark ↗](https://yfm-po.itch.io/receipts-after-dark): an early Godot browser-game prototype. Walk through a moonlit market, inspect the evidence and make the call.
 
-I also built a local Spotify tool for my daily rotation and private playlists by mood, activity or artist. It runs on my Mac, with no background AI calls. The source is private.
+Also around here: [Khonstash](https://github.com/khons-hu/khonstash), a Steam item watchlist, and [Moonhold](https://github.com/khons-hu/moonhold), a local pause timer for messages you might regret sending. Moonhold cannot block other apps.
+
+I also use a local Spotify tool for my daily rotation and playlists by mood, activity or artist. It runs on my Mac without background AI calls.
 
 ### on my desk
 
-Trying Jev for small decisions: picking browser actions and sorting release notes. OpenAI coding agents help me build and debug the surrounding tools. I check what actually worked before handing over more of the loop. Sometimes the plain script still wins.
-
-The browser work is an early experiment. Khonrelay’s optional Jev reading order is already available in the app.
+Trying Jev for release-note sorting and small action-selection tests, alongside OpenAI coding agents. Khonrelay’s optional reading order is available in the app. The browser work is still experimental, so I keep model decisions separate from whether the action actually worked.
 
 ### github
 
@@ -42,7 +40,9 @@ I audit implementations for smaller shops and larger clients, debug browser and 
 
 Master's in Computer Science at TUKE. My thesis involved PPO agents for a multiplayer game and LLM-generated maps. I've also worked on language-learning games at LangBee, card-personalization software at Pierre & Rady and IBM DOORS NG extensions at Softacus.
 
-Earlier work includes an [Arduino calculator](https://github.com/khons-hu/Scientific-Calculator-Simplified---Semestral-Hardware-project) we built as a team at TUKE, with expression parsing, an LCD and a small bomb-defusal game. There’s also a [Discord music bot](https://github.com/khons-hu/CSLYS-Discord-Bot), and a [C++ inter-process communication project](https://github.com/khons-hu/Inter-process-communication). These repos aren't necessarily up to date. I'll share newer projects when they're ready.
+[Dots ↗](https://dots-khonsu.vercel.app/) ([source](https://github.com/khons-hu/Dots)) is my 2023 React game, brought back as a browser edition with its original look.
+
+Earlier work includes an [Arduino calculator](https://github.com/khons-hu/Scientific-Calculator-Simplified---Semestral-Hardware-project) we built as a team at TUKE, with expression parsing, an LCD and a small bomb-defusal game. There’s also a [Discord music bot](https://github.com/khons-hu/CSLYS-Discord-Bot), and a [C++ inter-process communication project](https://github.com/khons-hu/Inter-process-communication). These older repos aren't necessarily maintained. The newer tools are where I'm spending time now.
 
 <sub>C/C++ · Python · TypeScript / JavaScript · PHP · SQL · Java · Docker</sub>
 
