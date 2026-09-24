@@ -34,4 +34,4 @@ C/C++ · Python · TypeScript / JavaScript · PHP · SQL · Java · Docker
 
 ---
 
-[GitHub](https://github.com/khons-hu) · [X](https://x.com/ptr1337_) · [Steam](https://steamcommunity.com/id/khons_hu/) · Discord: khons.hu
+[GitHub](https://github.com/khons-hu) · [LinkedIn](https://www.linkedin.com/in/patrick-obrtal/) · [X](https://x.com/ptr1337_) · [Steam](https://steamcommunity.com/id/khons_hu/) · Discord: khons.hu
