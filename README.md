@@ -18,6 +18,8 @@ I'm Patrick. C++ and Counter-Strike got me into programming. These days I build 
 
 I recently added a multilingual LLM guide and live Spotify listening status to my portfolio. The chat uses public project facts and falls back to prepared answers when the model is unavailable.
 
+My private Spotify rotation now refreshes daily on my Mac, with a weekly Jev selection based on track and artist names. Daily updates reuse the selection, without opening an assistant chat.
+
 I'm trying Jev for release-note sorting and small action-selection tests, alongside coding agents. Khonrelay's optional reading order is available in the app. Browser actions are still experimental, so I keep model decisions separate from whether the UI action actually worked.
 
 ### Work
