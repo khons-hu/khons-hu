@@ -2,7 +2,7 @@
 
 # hey, I'm khonsu ☾
 
-I'm Patrick. C++ and Counter-Strike got me into programming. These days I build small tools and games, and try coding agents on my own projects.
+I'm Patrick. I build tools and workflows around AI agents, with a focus on harnessing, reusable skills and evaluation. I use my own projects to test what works and make the failures easier to review.
 
 [My website](https://khons-hu.vercel.app/) has project notes, playable demos and a chat guide. The [source is public](https://github.com/khons-hu/portfolio) too. Feedback is welcome through the repos or Discord: khons.hu.
 
@@ -30,11 +30,10 @@ I audit implementations and investigate browser and API behaviour, product feeds
 
 I have a Master's in Computer Science from TUKE. My thesis involved PPO agents for a multiplayer game and LLM-generated maps. I've also worked on language-learning games, card-personalization software and IBM DOORS NG extensions.
 
-[Dots](https://dots-khonsu.vercel.app/) · [source](https://github.com/khons-hu/Dots) is a 2023 React / Spring Boot game, brought back as a browser edition. Older projects include a team-built [Arduino calculator](https://github.com/khons-hu/Scientific-Calculator-Simplified---Semestral-Hardware-project), a [Discord music bot](https://github.com/khons-hu/CSLYS-Discord-Bot) and a [C++ IPC project](https://github.com/khons-hu/Inter-process-communication). These older repositories are not necessarily maintained.
+[Dots](https://dots-khonsu.vercel.app/) · [source](https://github.com/khons-hu/Dots) is a 2023 React / Spring Boot game, brought back as a browser edition. Older projects include a team-built [Arduino calculator](https://github.com/khons-hu/Scientific-Calculator-Simplified---Semestral-Hardware-project) and a [Discord music bot](https://github.com/khons-hu/CSLYS-Discord-Bot). These older repositories are not necessarily maintained.
 
-C/C++ · Python · TypeScript / JavaScript · PHP · SQL · Java · Docker
+AI harnessing · AI agents · Reusable skills · Workflow automation · Model evaluation
 
 ---
 
 [GitHub](https://github.com/khons-hu) · [LinkedIn](https://www.linkedin.com/in/patrick-obrtal/) · [X](https://x.com/ptr1337_) · [Steam](https://steamcommunity.com/id/khons_hu/) · Discord: khons.hu
-
