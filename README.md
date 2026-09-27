@@ -16,15 +16,15 @@ I'm Patrick. C++ and Counter-Strike got me into programming. These days I build 
 
 ### On my desk
 
-I recently added a multilingual LLM guide and live Spotify listening status to my portfolio. The chat uses public project facts and falls back to prepared answers when the model is unavailable.
-
-My private Spotify rotation now refreshes daily on my Mac, with a weekly Jev selection based on track and artist names. Daily updates reuse the selection, without opening an assistant chat.
-
 I'm trying Jev for release-note sorting and small action-selection tests, alongside coding agents. Khonrelay's optional reading order is available in the app. Browser actions are still experimental, so I keep model decisions separate from whether the UI action actually worked.
+
+My portfolio also has a multilingual chat guide and live Spotify listening status. The guide uses public project facts and falls back to prepared answers when the model is unavailable.
 
 ### Work
 
-I'm a **Customer Support Partner L2** at [Luigi's Box](https://www.luigisbox.com/), which builds search and product discovery for online shops. L2 means second-line technical support. I audit implementations and investigate browser and API behaviour, product feeds, Analytics and implementation issues. I reproduce failures, trace them through code, data or configuration, and verify fixes or prepare cases engineering can reproduce.
+I'm a **Customer Support Partner L2** at [Luigi's Box](https://www.luigisbox.com/), which builds search and product discovery for online shops. L2 means second-line technical support.
+
+I audit implementations and investigate browser and API behaviour, product feeds and analytics. I use AWS and Sentry to investigate service issues and review error reports. I reproduce failures, trace them through code, data or configuration, and verify fixes or prepare cases engineering can reproduce.
 
 ### Earlier work
 
@@ -37,3 +37,4 @@ C/C++ · Python · TypeScript / JavaScript · PHP · SQL · Java · Docker
 ---
 
 [GitHub](https://github.com/khons-hu) · [LinkedIn](https://www.linkedin.com/in/patrick-obrtal/) · [X](https://x.com/ptr1337_) · [Steam](https://steamcommunity.com/id/khons_hu/) · Discord: khons.hu
+
