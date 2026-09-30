@@ -16,11 +16,11 @@ I'm Patrick. I build tools and workflows around AI agents, with a focus on harne
 
 ### On my desk
 
-I build with OpenAI Codex, reusable skills and MCP tools. I'm exploring Claude 5.5 workflows, with Opus 5.5 as my preferred Claude model. The useful part is giving agents the right context and checking what they actually did.
+I build and review projects with Codex and Claude, reusable skills and MCP tools. The useful part is giving agents the right context and checking what they actually did.
 
 Jev helps with small, structured decisions: candidate selection, relevance ordering and experiments with reranking retrieved context while retaining the sources. [Feedcairn's daily reading order](https://github.com/khons-hu/feedcairn/blob/main/scripts/update-relevance.mjs) uses public AI and developer feeds. A model recommendation and a verified browser action are separate things.
 
-As of September 30, I'm following [OpenAI's new dots](https://openai.com/index/introducing-dots/), [GPT-6.1 Sol](https://learn.chatgpt.com/docs/changelog) and [Claude Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) for future workflow experiments.
+I'm interested in reinforcement learning and practical agent workflows. I try new tools on real tasks before deciding what is worth keeping.
 
 My portfolio also has a multilingual chat guide and live Spotify listening status. The guide uses public project facts and falls back to prepared answers when the model is unavailable.
 
