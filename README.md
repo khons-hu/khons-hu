@@ -8,10 +8,10 @@ I'm Patrick. I build tools and workflows around AI agents, with a focus on harne
 
 ### Current projects
 
-- [Khonrelay](https://quiet-signal-khonsu.vercel.app/) · [source](https://github.com/khons-hu/khonrelay): an RSS inbox for AI releases, with saved links, backups, optional Jev reading order and a daily push digest.
+- [Khonrelay](https://relay.khns.dev/) · [source](https://github.com/khons-hu/khonrelay): an RSS inbox for AI releases, with saved links, backups, optional Jev reading order and a daily push digest.
 - [Khonproof](https://github.com/khons-hu/khonproof): small, reproducible tests for agent decisions, browser tasks and instruction comparisons. Failures stay visible.
-- [Khonsolve](https://thinkroom-khonsu.vercel.app/) · [source](https://github.com/khons-hu/khonsolve): coding, debugging, logic and prompt exercises, with hints when you need them.
-- [Khonodds](https://market-watch-khonsu.vercel.app/) · [source](https://github.com/khons-hu/khonodds): a read-only Polymarket research desk with wallet watchlists and an AI company filing watchlist. No trades or wallet connection.
+- [Khonsolve](https://solve.khns.dev/) · [source](https://github.com/khons-hu/khonsolve): coding, debugging, logic and prompt exercises, with hints when you need them.
+- [Khonodds](https://odds.khns.dev/) · [source](https://github.com/khons-hu/khonodds): a read-only Polymarket research desk with wallet watchlists and an AI company filing watchlist. No trades or wallet connection.
 - [Receipts After Dark](https://yfm-po.itch.io/receipts-after-dark): an early Godot browser-game prototype about inspecting evidence and making the call.
 
 ### On my desk
@@ -34,7 +34,7 @@ I audit implementations and investigate browser and API behaviour, product feeds
 
 I have a Master's in Computer Science from TUKE. My thesis involved PPO agents for a multiplayer game and LLM-generated maps. I've also worked on language-learning games, card-personalization software and IBM DOORS NG extensions.
 
-[Dots](https://dots-khonsu.vercel.app/) · [source](https://github.com/khons-hu/Dots) is a 2023 React / Spring Boot game, brought back as a browser edition. Older projects include a team-built [Arduino calculator](https://github.com/khons-hu/Scientific-Calculator-Simplified---Semestral-Hardware-project) and a [Discord music bot](https://github.com/khons-hu/CSLYS-Discord-Bot). These older repositories are not necessarily maintained.
+[Dots](https://dots.khns.dev/) · [source](https://github.com/khons-hu/Dots) is a 2023 React / Spring Boot game, brought back as a browser edition. Older projects include a team-built [Arduino calculator](https://github.com/khons-hu/Scientific-Calculator-Simplified---Semestral-Hardware-project) and a [Discord music bot](https://github.com/khons-hu/CSLYS-Discord-Bot). These older repositories are not necessarily maintained.
 
 AI harnessing · AI agents · Reusable skills · Workflow automation · Model evaluation
 
