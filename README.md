@@ -4,7 +4,7 @@
 
 I'm Patrick. I build tools and workflows around AI agents, with a focus on harnessing, reusable skills and evaluation. I use my own projects to test what works and make the failures easier to review.
 
-[My website](https://khons-hu.vercel.app/) has project notes, playable demos and a chat guide. The [source is public](https://github.com/khons-hu/portfolio) too. Feedback is welcome through the repos or Discord: khons.hu.
+[My website](https://khns.dev/) has project notes, playable demos and a chat guide. The [source is public](https://github.com/khons-hu/portfolio) too. Feedback is welcome through the repos or Discord: khons.hu.
 
 ### Current projects
 
