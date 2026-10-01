@@ -24,6 +24,10 @@ I'm interested in reinforcement learning and practical agent workflows. I try ne
 
 My portfolio also has a multilingual chat guide and live Spotify listening status. The guide uses public project facts and falls back to prepared answers when the model is unavailable.
 
+### Model reviews
+
+I publish [practical model reviews on Unbenchmark](https://unbenchmark.com/user/khons-hu?tab=reviews). They cover coding, writing and small decisions in agent workflows, with the setup, checks and limitations included. The ratings reflect my own usage.
+
 ### Work
 
 I'm a **Customer Support Partner L2** at [Luigi's Box](https://www.luigisbox.com/), which builds search and product discovery for online shops. L2 means second-line technical support.
@@ -40,4 +44,4 @@ AI harnessing · AI agents · Reusable skills · Workflow automation · Model ev
 
 ---
 
-[GitHub](https://github.com/khons-hu) · [LinkedIn](https://www.linkedin.com/in/patrick-obrtal/) · [X](https://x.com/ptr1337_) · [Steam](https://steamcommunity.com/id/khons_hu/) · Discord: khons.hu
+[GitHub](https://github.com/khons-hu) · [LinkedIn](https://www.linkedin.com/in/patrick-obrtal/) · [X](https://x.com/ptr1337_) · [Steam](https://steamcommunity.com/id/khons_hu/) · [Unbenchmark](https://unbenchmark.com/user/khons-hu?tab=reviews) · Discord: khons.hu
