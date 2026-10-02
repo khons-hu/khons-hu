@@ -8,6 +8,7 @@ I'm Patrick. I build tools and workflows around AI agents, with a focus on harne
 
 ### Current projects
 
+- [Khonsu Moonlight](https://marketplace.visualstudio.com/items?itemName=khons-hu.khonsu-moonlight) · [source](https://github.com/khons-hu/khonsu-moonlight): a midnight-navy VS Code theme with ice-blue, lavender and mint accents. An editor profile and Starship/zsh terminal setup are optional.
 - [Feedcairn](https://relay.khns.dev/) · [source](https://github.com/khons-hu/feedcairn): an RSS inbox for AI releases, with saved links, backups, optional Jev reading order and a daily push digest.
 - [Trialkeep](https://github.com/khons-hu/trialkeep): small, reproducible tests for agent decisions, browser tasks and instruction comparisons. Failures stay visible.
 - [Reasonrook](https://solve.khns.dev/) · [source](https://github.com/khons-hu/reasonrook): coding, debugging, logic and prompt exercises, with hints when you need them.
