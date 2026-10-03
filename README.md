@@ -15,7 +15,9 @@ I'm Patrick. I build tools and workflows around AI agents, with a focus on harne
 - [Stakeglass](https://odds.khns.dev/) · [source](https://github.com/khons-hu/stakeglass): a read-only Polymarket research desk with wallet watchlists and an AI company filing watchlist. No trades or wallet connection.
 - [Receipts After Dark](https://yfm-po.itch.io/receipts-after-dark): an early Godot browser-game prototype about inspecting evidence and making the call.
 
-[![Khonsu Moonlight 0.7.0 direct pet interactions](https://raw.githubusercontent.com/khons-hu/khonsu-moonlight/v0.7.0/screenshots/pets-demo-poster.jpg)](https://github.com/khons-hu/khonsu-moonlight/releases/download/v0.7.0/moonlight-pets-0.7.0.mp4)
+[![Khonsu Moonlight: code, focus and pets](https://raw.githubusercontent.com/khons-hu/khonsu-moonlight/main/screenshots/full-demo-poster.jpg)](https://khns.dev/assets/previews/moonlight-full-demo-070.mp4)
+
+[Watch the 3:27 workspace walkthrough](https://khns.dev/assets/previews/moonlight-full-demo-070.mp4): real code edits, formatting, terminal output, optional setup, focus and pet interactions. Includes a labeled motion-enabled pet preview.
 
 ### On my desk
 
