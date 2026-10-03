@@ -1,4 +1,4 @@
-<img src="assets/moonlight.png" alt="Moonlit mountains in midnight blue" width="100%" />
+<img src="assets/khonsu-moonlight-banner.svg" alt="khonsu: tools, agents and experiments, in the Moonlight palette" width="100%" />
 
 # hey, I'm khonsu ☾
 
@@ -8,7 +8,7 @@ I'm Patrick. I build tools and workflows around AI agents, with a focus on harne
 
 ### Current projects
 
-- [Khonsu Moonlight](https://marketplace.visualstudio.com/items?itemName=khons-hu.khonsu-moonlight) · [source](https://github.com/khons-hu/khonsu-moonlight): a midnight-navy VS Code theme with ice-blue, lavender and mint accents. An editor profile and Starship/zsh terminal setup are optional.
+- [Khonsu Moonlight](https://marketplace.visualstudio.com/items?itemName=khons-hu.khonsu-moonlight) · [source](https://github.com/khons-hu/khonsu-moonlight): a midnight-navy theme for VS Code, with matching Vim, Neovim and terminal colors. Version 0.6.0 also includes seven interactive local companions, reversible editor presets, a focus timer and an optional 22-extension picker. Editor and Starship/zsh terminal setups stay optional.
 - [Feedcairn](https://relay.khns.dev/) · [source](https://github.com/khons-hu/feedcairn): an RSS inbox for AI releases, with saved links, backups, optional Jev reading order and a daily push digest.
 - [Trialkeep](https://github.com/khons-hu/trialkeep): small, reproducible tests for agent decisions, browser tasks and instruction comparisons. Failures stay visible.
 - [Reasonrook](https://solve.khns.dev/) · [source](https://github.com/khons-hu/reasonrook): coding, debugging, logic and prompt exercises, with hints when you need them.
