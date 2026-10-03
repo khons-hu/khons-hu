@@ -8,12 +8,14 @@ I'm Patrick. I build tools and workflows around AI agents, with a focus on harne
 
 ### Current projects
 
-- [Khonsu Moonlight](https://marketplace.visualstudio.com/items?itemName=khons-hu.khonsu-moonlight) · [source](https://github.com/khons-hu/khonsu-moonlight): a midnight-navy theme for VS Code, with matching Vim, Neovim and terminal colors. Version 0.6.0 also includes seven interactive local companions, reversible editor presets, a focus timer and an optional 22-extension picker. Editor and Starship/zsh terminal setups stay optional.
+- [Khonsu Moonlight](https://marketplace.visualstudio.com/items?itemName=khons-hu.khonsu-moonlight) · [source](https://github.com/khons-hu/khonsu-moonlight): a midnight-navy theme for VS Code, with matching Vim, Neovim and terminal colors. Version 0.7.0 brings direct petting and stroking, carrying and soft landings, a flickable ball chase, cushion naps and keyboard-accessible scene objects for all seven local companions. It respects reduced motion and keeps the sidebar opt-in. This update also refines Python syntax colors, Explorer labels and status bar contrast. Editor and Starship/zsh terminal setups stay optional.
 - [Feedcairn](https://relay.khns.dev/) · [source](https://github.com/khons-hu/feedcairn): an RSS inbox for AI releases, with saved links, backups, optional Jev reading order and a daily push digest.
 - [Trialkeep](https://github.com/khons-hu/trialkeep): small, reproducible tests for agent decisions, browser tasks and instruction comparisons. Failures stay visible.
 - [Reasonrook](https://solve.khns.dev/) · [source](https://github.com/khons-hu/reasonrook): coding, debugging, logic and prompt exercises, with hints when you need them.
 - [Stakeglass](https://odds.khns.dev/) · [source](https://github.com/khons-hu/stakeglass): a read-only Polymarket research desk with wallet watchlists and an AI company filing watchlist. No trades or wallet connection.
 - [Receipts After Dark](https://yfm-po.itch.io/receipts-after-dark): an early Godot browser-game prototype about inspecting evidence and making the call.
+
+[![Khonsu Moonlight 0.7.0 direct pet interactions](https://raw.githubusercontent.com/khons-hu/khonsu-moonlight/v0.7.0/screenshots/pets-demo-poster.jpg)](https://github.com/khons-hu/khonsu-moonlight/releases/download/v0.7.0/moonlight-pets-0.7.0.mp4)
 
 ### On my desk
 
