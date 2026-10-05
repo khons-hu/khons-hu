@@ -1,48 +1,34 @@
-<img src="assets/khonsu-moonlight-banner.svg" alt="khonsu: tools, agents and experiments, in the Moonlight palette" width="100%" />
+<a href="https://khns.dev/"><img src="assets/khonsu-moonlight-banner.svg" alt="Patrick. Or khonsu. A midnight-navy banner with a moon over a quiet ridge." width="100%" /></a>
 
-# hey, I'm khonsu ☾
+Hi, I'm Patrick. I build small tools and workflows around AI agents, with a focus on reusable skills and checking what agents actually did. My own projects are where I test what works and keep the failures easy to review.
 
-I'm Patrick. I build tools and workflows around AI agents, with a focus on harnessing, reusable skills and evaluation. I use my own projects to test what works and make the failures easier to review.
+By day I'm a **Customer Support Partner L2** at [Luigi's Box](https://www.luigisbox.com/), which builds search and product discovery for online shops. L2 is second-line technical support. I audit implementations, investigate browser and API behaviour, product feeds and analytics, and turn failures into cases engineering can reproduce.
 
-[My website](https://khns.dev/) has project notes, playable demos and a chat guide. The [source is public](https://github.com/khons-hu/portfolio) too. Feedback is welcome through the repos or Discord: khons.hu.
+[khns.dev](https://khns.dev/) has project notes, playable demos, a terminal and a multilingual chat guide. Its [source is public](https://github.com/khons-hu/portfolio) too.
 
 ### Current projects
 
-- [Khonsu Moonlight](https://marketplace.visualstudio.com/items?itemName=khons-hu.khonsu-moonlight) · [source](https://github.com/khons-hu/khonsu-moonlight): a midnight-navy VS Code theme with optional interactive pets and matching Vim, Neovim and terminal colors.
-- [Feedcairn](https://relay.khns.dev/) · [source](https://github.com/khons-hu/feedcairn): an RSS inbox for AI releases, with saved links, backups, optional Jev reading order and a daily push digest.
-- [Trialkeep](https://github.com/khons-hu/trialkeep): small, reproducible tests for agent decisions, browser tasks and instruction comparisons. Failures stay visible.
-- [Reasonrook](https://solve.khns.dev/) · [source](https://github.com/khons-hu/reasonrook): coding, debugging, logic and prompt exercises, with hints when you need them.
-- [Stakeglass](https://odds.khns.dev/) · [source](https://github.com/khons-hu/stakeglass): a read-only Polymarket research desk with wallet watchlists and an AI company filing watchlist. No trades or wallet connection.
-- [Receipts After Dark](https://yfm-po.itch.io/receipts-after-dark): an early Godot browser-game prototype about inspecting evidence and making the call.
+| Project | What it is |
+| --- | --- |
+| [Khonsu Moonlight](https://marketplace.visualstudio.com/items?itemName=khons-hu.khonsu-moonlight) · [source](https://github.com/khons-hu/khonsu-moonlight) | A midnight-navy VS Code theme with optional interactive pets and matching Vim, Neovim and terminal colors. |
+| [Feedcairn](https://relay.khns.dev/) · [source](https://github.com/khons-hu/feedcairn) | An RSS inbox for AI releases, with saved links, backups and an optional Jev reading order. |
+| [Trialkeep](https://github.com/khons-hu/trialkeep) | Small, reproducible tests for agent decisions, browser tasks and instruction comparisons. Failures stay visible. |
+| [Reasonrook](https://solve.khns.dev/) · [source](https://github.com/khons-hu/reasonrook) | Coding, debugging, logic and prompt exercises, with hints when you need them. |
+| [Stakeglass](https://odds.khns.dev/) · [source](https://github.com/khons-hu/stakeglass) | A read-only Polymarket research desk. No trades or wallet connection. |
+| [Receipts After Dark](https://yfm-po.itch.io/receipts-after-dark) | An early Godot browser game about inspecting evidence and making the call. |
 
-### On my desk
+Screenshots and release notes for Moonlight live on [its project page](https://khns.dev/#project/khonsu-moonlight).
 
-I build and review projects with Codex and Claude, reusable skills and MCP tools. The useful part is giving agents the right context and checking what they actually did.
+### How I work with agents
 
-Jev helps with small, structured decisions: candidate selection, relevance ordering and experiments with reranking retrieved context while retaining the sources. [Feedcairn's daily reading order](https://github.com/khons-hu/feedcairn/blob/main/scripts/update-relevance.mjs) uses public AI and developer feeds. A model recommendation and a verified browser action are separate things.
+I build and review projects with Codex and Claude, reusable skills and MCP tools. The useful part is giving agents the right context and then checking the result. Jev helps with small structured decisions, like choosing between candidates or ordering retrieved context while keeping the sources. A model's suggestion and a verified action are different things, so I keep them separate.
 
-I'm interested in reinforcement learning and practical agent workflows. I try new tools on real tasks before deciding what is worth keeping.
-
-My portfolio also has a multilingual chat guide and live Spotify listening status. The guide uses public project facts and falls back to prepared answers when the model is unavailable.
-
-### Model reviews
-
-I publish [practical model reviews on Unbenchmark](https://unbenchmark.com/user/khons-hu?tab=reviews). They cover coding, writing and small decisions in agent workflows, with the setup, checks and limitations included. The ratings reflect my own usage.
-
-### Work
-
-I'm a **Customer Support Partner L2** at [Luigi's Box](https://www.luigisbox.com/), which builds search and product discovery for online shops. L2 means second-line technical support.
-
-I audit implementations and investigate browser and API behaviour, product feeds and analytics. I use AWS and Sentry to investigate service issues and review error reports. I reproduce failures, trace them through code, data or configuration, and verify fixes or prepare cases engineering can reproduce.
+I also write [practical model reviews on Unbenchmark](https://unbenchmark.com/user/khons-hu?tab=reviews). They cover coding, writing and small agent decisions, with the setup and limits included. The ratings reflect my own usage.
 
 ### Earlier work
 
-I have a Master's in Computer Science from TUKE. My thesis involved PPO agents for a multiplayer game and LLM-generated maps. I've also worked on language-learning games, card-personalization software and IBM DOORS NG extensions.
-
-[Dots](https://dots.khns.dev/) · [source](https://github.com/khons-hu/Dots) is a 2023 React / Spring Boot game, brought back as a browser edition. Older projects include a team-built [Arduino calculator](https://github.com/khons-hu/Scientific-Calculator-Simplified---Semestral-Hardware-project) and a [Discord music bot](https://github.com/khons-hu/CSLYS-Discord-Bot). These older repositories are not necessarily maintained.
-
-AI harnessing · AI agents · Reusable skills · Workflow automation · Model evaluation
+Master's in Computer Science from TUKE, with a thesis on PPO agents for a multiplayer game and LLM-generated maps. I've also worked on language-learning games, card-personalization software and IBM DOORS NG extensions. [Dots](https://dots.khns.dev/) · [source](https://github.com/khons-hu/Dots) is a 2023 React and Spring Boot game, now playable in the browser. Older repositories are kept for reference and are not necessarily maintained.
 
 ---
 
-[GitHub](https://github.com/khons-hu) · [LinkedIn](https://www.linkedin.com/in/patrick-obrtal/) · [X](https://x.com/ptr1337_) · [Steam](https://steamcommunity.com/id/khons_hu/) · [Unbenchmark](https://unbenchmark.com/user/khons-hu?tab=reviews) · Discord: khons.hu
+[khns.dev](https://khns.dev/) · [LinkedIn](https://www.linkedin.com/in/patrick-obrtal/) · [X](https://x.com/ptr1337_) · [Steam](https://steamcommunity.com/id/khons_hu/) · [Unbenchmark](https://unbenchmark.com/user/khons-hu?tab=reviews) · Discord: khons.hu
