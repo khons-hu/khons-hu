@@ -10,14 +10,14 @@ By day I'm a **Customer Support Partner L2** at [Luigi's Box](https://www.luigis
 
 | Project | What it is |
 | --- | --- |
-| [Khonsu Moonlight](https://marketplace.visualstudio.com/items?itemName=khons-hu.khonsu-moonlight) · [source](https://github.com/khons-hu/khonsu-moonlight) | A midnight-navy VS Code theme with optional interactive pets and matching Vim, Neovim and terminal colors. |
+| [Khonsu Moonlight](https://marketplace.visualstudio.com/items?itemName=khons-hu.khonsu-moonlight) · [source](https://github.com/khons-hu/khonsu-moonlight) | A midnight-navy VS Code theme with seven optional interactive companions, reversible setup tools and matching Vim, Neovim and terminal colors. |
 | [Feedcairn](https://relay.khns.dev/) · [source](https://github.com/khons-hu/feedcairn) | An RSS inbox for AI releases, with saved links, backups and an optional Jev reading order. |
 | [Trialkeep](https://github.com/khons-hu/trialkeep) | Small, reproducible tests for agent decisions, browser tasks and instruction comparisons. Failures stay visible. |
 | [Reasonrook](https://solve.khns.dev/) · [source](https://github.com/khons-hu/reasonrook) | Coding, debugging, logic and prompt exercises, with hints when you need them. |
 | [Stakeglass](https://odds.khns.dev/) · [source](https://github.com/khons-hu/stakeglass) | A read-only Polymarket research desk. No trades or wallet connection. |
 | [Receipts After Dark](https://yfm-po.itch.io/receipts-after-dark) | An early Godot browser game about inspecting evidence and making the call. |
 
-Screenshots and release notes for Moonlight live on [its project page](https://khns.dev/#project/khonsu-moonlight).
+Moonlight 0.8.0 gives all seven companions new artwork and refines the editor's hints, sticky scroll and focus outlines. [Screenshots and the 64-second demo](https://khns.dev/#project/khonsu-moonlight) · [Release notes](https://github.com/khons-hu/khonsu-moonlight/releases/tag/v0.8.0)
 
 ### How I work with agents
 
