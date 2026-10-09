@@ -23,6 +23,8 @@ Moonlight 0.8.0 gives all seven companions new artwork and refines the editor's 
 
 I build and review projects with Codex and Claude, reusable skills and MCP tools. The useful part is giving agents the right context and then checking the result. Jev helps with small structured decisions, like choosing between candidates or ordering retrieved context while keeping the sources. A model's suggestion and a verified action are different things, so I keep them separate.
 
+My latest [Haiku 5.5 vs GPT-6 Luna evaluation](https://github.com/khons-hu/portfolio/tree/main/reports/haiku-luna-2026-10-08) records 192 primary outcomes on 24 frozen synthetic Python and structured-text tasks, with two repeats at Low and Max. It includes failures, timeouts and sanitized evidence. Native desktop Code and Codex CLI use different hosts, tools and context, so the results describe those workflows and have narrow limits.
+
 I also write [practical model reviews on Unbenchmark](https://unbenchmark.com/user/khons-hu?tab=reviews). They cover coding, writing and small agent decisions, with the setup and limits included. The ratings reflect my own usage.
 
 ### Earlier work
