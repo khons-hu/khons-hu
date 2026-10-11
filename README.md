@@ -12,10 +12,13 @@ By day I'm a **Customer Support Partner L2** at [Luigi's Box](https://www.luigis
 | --- | --- |
 | [Khonsu Moonlight](https://marketplace.visualstudio.com/items?itemName=khons-hu.khonsu-moonlight) · [source](https://github.com/khons-hu/khonsu-moonlight) | A midnight-navy VS Code theme with seven optional interactive companions, reversible setup tools and matching Vim, Neovim and terminal colors. |
 | [Feedcairn](https://relay.khns.dev/) · [source](https://github.com/khons-hu/feedcairn) | An RSS inbox for AI releases, with saved links, backups and an optional Jev reading order. |
-| [Trialkeep](https://github.com/khons-hu/trialkeep) | Small, reproducible tests for agent decisions, browser tasks and instruction comparisons. Failures stay visible. |
+| [Trialkeep](https://github.com/khons-hu/trialkeep) | Six small tools for agent benchmarks, browser tasks, skill comparisons, release checks, claims and draft review. Failures stay visible. |
 | [Reasonrook](https://solve.khns.dev/) · [source](https://github.com/khons-hu/reasonrook) | Coding, debugging, logic and prompt exercises, with hints when you need them. |
 | [Stakeglass](https://odds.khns.dev/) · [source](https://github.com/khons-hu/stakeglass) | A read-only Polymarket research desk. No trades or wallet connection. |
+| [Lootlatch](https://github.com/khons-hu/lootlatch) | A Steam item watchlist with EUR price checks, fee estimates and local notes. No Steam login. |
 | [Receipts After Dark](https://yfm-po.itch.io/receipts-after-dark) | An early Godot browser game about inspecting evidence and making the call. |
+
+Trialkeep, Reasonrook, Feedcairn, Stakeglass and Lootlatch now share my portfolio's colours, light/dark themes and phone-friendly layouts.
 
 Moonlight 0.8.0 gives all seven companions new artwork and refines the editor's hints, sticky scroll and focus outlines. [Screenshots and the 64-second demo](https://khns.dev/#project/khonsu-moonlight) · [Release notes](https://github.com/khons-hu/khonsu-moonlight/releases/tag/v0.8.0)
 
@@ -29,7 +32,9 @@ I also write [practical model reviews on Unbenchmark](https://unbenchmark.com/us
 
 ### Earlier work
 
-Master's in Computer Science from TUKE, with a thesis on PPO agents for a multiplayer game and LLM-generated maps. I've also worked on language-learning games, card-personalization software and IBM DOORS NG extensions. [Dots](https://dots.khns.dev/) · [source](https://github.com/khons-hu/Dots) is a 2023 React and Spring Boot game, now playable in the browser. Older repositories are kept for reference and are not necessarily maintained.
+Master's in Computer Science from TUKE, with a thesis on PPO agents for a multiplayer game and LLM-generated maps. I've also worked on language-learning games, card-personalization software and IBM DOORS NG extensions.
+
+[Dots](https://dots.khns.dev/) · [source](https://github.com/khons-hu/Dots) is a 2023 React and Spring Boot game, now playable in the browser. I recently refreshed its browser interface with matching light/dark themes and phone controls. Guest play needs no account, and reloading starts over. Other older repositories are kept for reference and are not necessarily maintained.
 
 ---
 
