@@ -16,11 +16,19 @@ By day I'm a **Customer Support Partner L2** at [Luigi's Box](https://www.luigis
 | [Reasonrook](https://solve.khns.dev/) · [source](https://github.com/khons-hu/reasonrook) | Coding, debugging, logic and prompt exercises, with hints when you need them. |
 | [Stakeglass](https://odds.khns.dev/) · [source](https://github.com/khons-hu/stakeglass) | A read-only Polymarket research desk. No trades or wallet connection. |
 | [Lootlatch](https://github.com/khons-hu/lootlatch) | A Steam item watchlist with EUR price checks, fee estimates and local notes. No Steam login. |
+| [Moonhold](https://github.com/khons-hu/moonhold) | An earlier prototype for pausing before sending something impulsive. Set a timer, write, then decide. Notes stay in local browser storage. Source only, with no hosted demo linked. |
 | [Receipts After Dark](https://yfm-po.itch.io/receipts-after-dark) | An early Godot browser game about inspecting evidence and making the call. |
 
-Trialkeep, Reasonrook, Feedcairn, Stakeglass and Lootlatch now share my portfolio's colours, light/dark themes and phone-friendly layouts.
+Trialkeep, Reasonrook, Feedcairn, Stakeglass and Lootlatch now share my portfolio's colours, light/dark themes and phone-friendly layouts. Dots, Reasonrook, Feedcairn and Stakeglass have live browser versions, while the Trialkeep and Lootlatch updates are in their public source.
 
 Moonlight 0.8.0 gives all seven companions new artwork and refines the editor's hints, sticky scroll and focus outlines. [Screenshots and the 64-second demo](https://khns.dev/#project/khonsu-moonlight) · [Release notes](https://github.com/khons-hu/khonsu-moonlight/releases/tag/v0.8.0)
+
+### In progress, private
+
+These two are private, so the links go to their notes on my portfolio.
+
+- [Moonshift](https://khns.dev/#project/moonshift) is a Godot game prototype about cooperative salvage robots, and a lab for learning how a robot team can work together. Complete learned missions on the hardest maps are still unsolved.
+- [Queuefolk](https://khns.dev/#project/queuefolk) is a co-op workplace comedy about a fictional support queue. Version 0.19.2 is a private alpha, and a newer browser prototype covers the tutorial, support shifts and lodge activities. The redesign is unfinished and online co-op still needs testing.
 
 ### How I work with agents
 
