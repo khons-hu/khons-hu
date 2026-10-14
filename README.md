@@ -32,11 +32,11 @@ These two are private, so their links go to my portfolio notes. Moonshift also h
 - [Moonshift](https://khns.dev/#project/moonshift) is a Godot and Python prototype about cooperative salvage robots. Joint PPO training now updates team decisions and robot movement together. Complete learned missions on the hardest maps are still unsolved.
 - [Queuefolk](https://khns.dev/#project/queuefolk) is a co-op workplace comedy about a fictional support queue. Version 0.19.2 is a private alpha, and a newer browser prototype covers the tutorial, support shifts and lodge activities. The redesign is unfinished and online co-op still needs testing.
 
-The 88-second Moonshift research preview shows partial progress, not a finished mission. Watch it on [X](https://x.com/ptr1337_/status/2110234360670540031) or [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7516000293885652994/).
+The 88-second Moonshift research preview shows partial progress, not a finished mission. Watch it on [X](https://x.com/ptr1337_/status/2110234360670540031).
 
 ### How I work with agents
 
-I build and review projects with Codex and Claude, reusable skills and MCP tools. The useful part is giving agents the right context and then checking the result. Jev helps with small structured decisions, like choosing between candidates or ordering retrieved context while keeping the sources. A model's suggestion and a verified action are different things, so I keep them separate.
+I build and review personal projects with Codex and Claude, reusable skills and MCP tools. Independent agent reviewers get a bounded question, relevant files and evidence. I make focused fixes, run the required checks and record what is local, tested, deployed or verified live. Jev helps with small decisions and relevance ordering while keeping the sources. The [public skill templates](https://khns.dev/#skills) capture these checks.
 
 My latest [Haiku 5.5 vs GPT-6 Luna evaluation](https://github.com/khons-hu/portfolio/tree/main/reports/haiku-luna-2026-10-08) records 192 primary outcomes on 24 frozen synthetic Python and structured-text tasks, with two repeats at Low and Max. It includes failures, timeouts and sanitized evidence. Native desktop Code and Codex CLI use different hosts, tools and context, so the results describe those workflows and have narrow limits.
 
