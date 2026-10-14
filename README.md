@@ -21,6 +21,8 @@ By day I'm a **Customer Support Partner L2** at [Luigi's Box](https://www.luigis
 
 Trialkeep, Reasonrook, Feedcairn, Stakeglass and Lootlatch now share my portfolio's colours, light/dark themes and phone-friendly layouts. Dots, Reasonrook, Feedcairn and Stakeglass have live browser versions, while the Trialkeep and Lootlatch updates are in their public source.
 
+I also measured the small apps in mobile emulation. That led to smaller portfolio previews, streaming guide replies, less CSS in Dots and steadier loading layouts in Reasonrook and Feedcairn.
+
 Moonlight 0.8.0 gives all seven companions new artwork and refines the editor's hints, sticky scroll and focus outlines. [Screenshots and the 64-second demo](https://khns.dev/#project/khonsu-moonlight) · [Release notes](https://github.com/khons-hu/khonsu-moonlight/releases/tag/v0.8.0)
 
 ### In progress, private
