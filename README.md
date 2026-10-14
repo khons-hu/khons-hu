@@ -25,10 +25,12 @@ Moonlight 0.8.0 gives all seven companions new artwork and refines the editor's 
 
 ### In progress, private
 
-These two are private, so the links go to their notes on my portfolio.
+These two are private, so their links go to my portfolio notes. Moonshift also has one public research clip.
 
-- [Moonshift](https://khns.dev/#project/moonshift) is a Godot game prototype about cooperative salvage robots, and a lab for learning how a robot team can work together. Complete learned missions on the hardest maps are still unsolved.
+- [Moonshift](https://khns.dev/#project/moonshift) is a Godot and Python prototype about cooperative salvage robots. Joint PPO training now updates team decisions and robot movement together. Complete learned missions on the hardest maps are still unsolved.
 - [Queuefolk](https://khns.dev/#project/queuefolk) is a co-op workplace comedy about a fictional support queue. Version 0.19.2 is a private alpha, and a newer browser prototype covers the tutorial, support shifts and lodge activities. The redesign is unfinished and online co-op still needs testing.
+
+The 88-second Moonshift research preview shows partial progress, not a finished mission. Watch it on [X](https://x.com/ptr1337_/status/2110234360670540031) or [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7516000293885652994/).
 
 ### How I work with agents
 
