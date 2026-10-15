@@ -27,12 +27,12 @@ Moonlight 0.8.0 gives all seven companions new artwork and refines the editor's 
 
 ### In progress, private
 
-These two are private, so their links go to my portfolio notes. Moonshift also has one public research clip.
+These two are private, so their links go to my portfolio rather than to source code.
 
-- [Moonshift](https://khns.dev/#project/moonshift) is a Godot and Python prototype about cooperative salvage robots. Joint PPO training now updates team decisions and robot movement together. Complete learned missions on the hardest maps are still unsolved.
+<a href="https://khns.dev/#moonshift-story"><img src="assets/moonshift-motion-36s-poster.webp" alt="Watch the 36-second Moonshift film on khns.dev. Two salvage robots during a learned evaluation, labelled Rescue." width="560" /></a>
+
+- [Moonshift](https://khns.dev/#moonshift-story) is my Godot and Python prototype about salvage robots learning to work as a crew. They carry cargo, work gates and go back for a teammate who needs help. PPO trains the team's decisions and each robot's movement together. The 36-second film on my portfolio shows teacher demonstrations, an animation from real PPO logs and four robots on frozen policies managing a rescue, a rejoin and a carrier attachment. That's partial progress. No full hard-map mission is complete yet.
 - [Queuefolk](https://khns.dev/#project/queuefolk) is a co-op workplace comedy about a fictional support queue. Version 0.19.2 is a private alpha, and a newer browser prototype covers the tutorial, support shifts and lodge activities. The redesign is unfinished and online co-op still needs testing.
-
-The 88-second Moonshift research preview shows partial progress, not a finished mission. Watch it on [X](https://x.com/ptr1337_/status/2110234360670540031).
 
 ### How I work with agents
 
