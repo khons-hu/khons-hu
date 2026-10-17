@@ -29,9 +29,9 @@ Moonlight 0.8.0 gives all seven companions new artwork and refines the editor's 
 
 These two are private, so their links go to my portfolio rather than to source code.
 
-<a href="https://khns.dev/#moonshift-story"><img src="assets/moonshift-motion-36s-poster.webp" alt="Watch the 36-second Moonshift film on khns.dev. Two salvage robots during a learned evaluation, labelled Rescue." width="560" /></a>
+<a href="https://khns.dev/#moonshift-story"><img src="assets/moonshift-night-shift-41s-poster.jpg" alt="Watch the 41-second Moonshift film on khns.dev. A crew of salvage robots working through Reactor Relay." width="560" /></a>
 
-- [Moonshift](https://khns.dev/#moonshift-story) is my Godot and Python prototype about salvage robots learning to work as a crew. They carry cargo, work gates and go back for a teammate who needs help. PPO trains the team's decisions and each robot's movement together. The 36-second film on my portfolio shows teacher demonstrations, an animation from real PPO logs and four robots on frozen policies managing a rescue, a rejoin and a carrier attachment. That's partial progress. No full hard-map mission is complete yet.
+- [Moonshift](https://khns.dev/#moonshift-story) is my Godot and Python prototype about salvage robots learning to work as a crew. The current 41-second film follows twelve robots through Reactor Relay and Lattice Freightworks, with teacher-guided coordination and movement trained through demonstrations and PPO. The recorded Reactor run delivered all six loads and extracted all twelve robots. Lattice appears as an excerpt. Fully learned mission coordination is still unfinished.
 - [Queuefolk](https://khns.dev/#project/queuefolk) is a co-op workplace comedy about a fictional support queue. Version 0.19.2 is a private alpha, and a newer browser prototype covers the tutorial, support shifts and lodge activities. The redesign is unfinished and online co-op still needs testing.
 
 ### How I work with agents
